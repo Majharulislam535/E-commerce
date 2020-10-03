@@ -19,3 +19,24 @@
     border: none;
     cursor: pointer;
 }
+.cat1{
+     background-color: orange;
+    
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+     background-color: blue;
+}
+.cat1,.cat2,.cat3{
+     padding:10px 30px;
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     color: white;
+     border-radius: 15px;
+}
+.cat-gore img{
+     width: 100px;
+}
